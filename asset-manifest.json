@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Grilled/static/css/main.b905a9ef.css",
+    "main.js": "/Grilled/static/js/main.95b2460b.js",
+    "static/media/PedroTechSpecial.png": "/Grilled/static/media/PedroTechSpecial.2c39286d7c2db626ae88.png",
+    "static/media/About.jpeg": "/Grilled/static/media/About.a4a773b9936eecf43a00.jpeg",
+    "static/media/Margherita.png": "/Grilled/static/media/Margherita.2c3e98a9e9df7f518a00.png",
+    "static/media/Background.jpg": "/Grilled/static/media/Background.3be3979a975971fa280c.jpg",
+    "static/media/grilled-chicken.png": "/Grilled/static/media/grilled-chicken.da92226ff8290620a75a.png",
+    "static/media/Contact.jpg": "/Grilled/static/media/Contact.c5706818d0d0d67d7151.jpg",
+    "static/media/pepperoni.jpg": "/Grilled/static/media/pepperoni.d173e5db8dacdf1324ed.jpg",
+    "static/media/pineapple.jpg": "/Grilled/static/media/pineapple.a01ab9be389f0e6bd6ec.jpg",
+    "static/media/Logo-removebg-preview.png": "/Grilled/static/media/Logo-removebg-preview.456b4e8beff06b0546ed.png",
+    "static/media/chicken grill.jpg": "/Grilled/static/media/chicken grill.52feb3d6fafc0ca70a7c.jpg",
+    "index.html": "/Grilled/index.html",
+    "main.b905a9ef.css.map": "/Grilled/static/css/main.b905a9ef.css.map",
+    "main.95b2460b.js.map": "/Grilled/static/js/main.95b2460b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b905a9ef.css",
+    "static/js/main.95b2460b.js"
+  ]
+}
