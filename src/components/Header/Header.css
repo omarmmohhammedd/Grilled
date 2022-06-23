@@ -1,0 +1,88 @@
+.navbar{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: row;
+    background-color: black
+}
+.leftside{
+    display: flex;
+    height: 100%;
+    align-items: center;
+    flex: 30%;
+    padding-left: 100px;
+}
+#open{
+    display: flex;
+    flex-direction: row;
+    justify-content:flex-end ;
+    align-items: flex-end;
+    transition: all 0.5s ease-in-out;
+    margin-left: 10px;
+    font-size: 14px;
+}
+#close{
+    display: none;
+}
+#Logo{
+    height: 70px;
+    margin-left: 10px;
+}
+#Link{
+    color: white;
+    text-decoration: none;
+    margin:20px;
+}
+#Link:hover{
+    transition: all 0.5s ease-in-out;
+color: #ff9000;
+}
+.rightside{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: center;
+    margin-right: 20px;
+    flex: 60%;
+}
+#btn{
+    margin-right: 20px;
+    color:#ff9000;
+}
+@media (max-width:900px) {
+#Link {
+    margin: 15px;
+  }
+.leftside{
+padding-left: 45px;
+}}
+
+@media screen and (max-width:700px) {
+    #Link{
+        margin: 10px;
+        font-size: 16px;
+    }
+    .leftside{
+        padding-left: 0px;
+        }
+}
+@media screen and (max-width:525px) {
+.rightside{
+    display: none;
+}
+#Logo{
+    margin-left: 10px;
+    height: 40px;
+}
+}
+@media screen and (min-width:525px) {
+    #btn{
+        display: none;
+
+    }
+}
+/* @media screen and (max-width:900px) {
+    #Link{
+        margin: 15px;
+    }
+} */

@@ -1,0 +1,34 @@
+.footer{
+    width: 100%;
+    height:100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+    background-color: black;
+}
+#socialmedia{
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+#img{
+    height: 50px;
+    color: white;
+    padding: 20px;
+    margin: 0 20px;
+}
+#img:hover{
+    transform: scale(1.1,1.1);
+    cursor: pointer;
+}
+.footer h4{
+    color: white;
+}
+@media  (max-width:535px) {
+    #img{
+        height: 30px;
+        margin: 0px;
+    }
+}
