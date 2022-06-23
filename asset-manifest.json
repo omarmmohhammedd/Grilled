@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Grilled/home/static/css/main.9888aa6f.css",
-    "main.js": "/Grilled/home/static/js/main.357ccc1a.js",
+    "main.js": "/Grilled/home/static/js/main.1ca5950a.js",
     "static/media/PedroTechSpecial.png": "/Grilled/home/static/media/PedroTechSpecial.2c39286d7c2db626ae88.png",
     "static/media/About.jpeg": "/Grilled/home/static/media/About.a4a773b9936eecf43a00.jpeg",
     "static/media/Margherita.png": "/Grilled/home/static/media/Margherita.2c3e98a9e9df7f518a00.png",
@@ -14,10 +14,10 @@
     "static/media/chicken grill.jpg": "/Grilled/home/static/media/chicken grill.52feb3d6fafc0ca70a7c.jpg",
     "index.html": "/Grilled/home/index.html",
     "main.9888aa6f.css.map": "/Grilled/home/static/css/main.9888aa6f.css.map",
-    "main.357ccc1a.js.map": "/Grilled/home/static/js/main.357ccc1a.js.map"
+    "main.1ca5950a.js.map": "/Grilled/home/static/js/main.1ca5950a.js.map"
   },
   "entrypoints": [
     "static/css/main.9888aa6f.css",
-    "static/js/main.357ccc1a.js"
+    "static/js/main.1ca5950a.js"
   ]
 }
